@@ -2,13 +2,26 @@
 
 Este documento centraliza la historia, la evidencia disponible y las acciones pendientes del caso entre Jorge Arturo Tokunaga Pérez (JATP) y Claudia Beatriz Garza Gómez (CBGG).
 
-Navegación rápida
------------------
+# Tabla de Contenido
 
-- TOC de evidencia: [TOC.md](./1_Evidencia_Cronologica/2025/10_Octubre/TOC_4.md) (índices por año)
-- Índices por año: `1_Evidencia_Cronologica/<year>/index.md` (ej. [2024 INDEX](1_Evidencia_Cronologica/2024/index.md))
-- Mapa de movimientos (registro): `moves_map.tsv`
-- Evidencia faltante / tareas: `2_Evidencia_Faltante_y_Tareas/`
+1. [Personas Clave](#1-personas-clave)
+2. [Números de Expediente](#2-números-de-expediente)
+3. [Resumen Ejecutivo del Caso](#3-resumen-ejecutivo-del-caso-contexto-rápido)
+4. [Fechas Clave Futuras y Pendientes Activos](#4-fechas-clave-futuras-y-pendientes-activos)
+   - [Pendientes Judiciales](#pendientes-judiciales)
+   - [Pendientes Procesales](#pendientes-procesales)
+   - [Próximas Audiencias](#próximas-audiencias)
+   - [Trámites Completados](#trámites-completados-recientemente)
+5. [Bitácora Cronológica de Documentos y Eventos](#5-bitácora-cronológica-de-documentos-y-eventos)
+   - [Documentos Fundamentales](#documentos-fundamentales)
+   - [2023 - Separación y Negociación](#2023---separación-y-negociación-de-convenios)
+   - [2024 - Inicio Proceso Divórcio](#2024---inicio-proceso-divórcio-exp-6562024-y-pensión-provisional)
+   - [2024 - Controversia Familiar](#2024---controversia-familiar-exp-7382024---demanda-y-contestación)
+   - [2024 - Incidentes y Escritos](#2024---incidentes-escritos-y-reprogramación-exp-7382024)
+   - [2025 - Avances y Periciales](#2025---avances-juicio-exp-7382024-periciales-y-finiquito)
+6. [Dinámicas y Evidencia de Comunicaciones](#6-dinámicas-y-evidencia-clave-de-comunicaciones-directas-fuente-chat-claudia)
+
+---
 
 Propósito
 ---------
