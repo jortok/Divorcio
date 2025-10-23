@@ -55,7 +55,7 @@ Tener una sola fuente donde consultar qué documentos hay, dónde están, qué f
 * **Dictamen Psicológico ([08/05/2025](./1_Evidencia_Cronologica/2025/10_Octubre/Psicología)):** Describe conflicto parental centrado en lo económico. No observa riesgos graves para custodia. **Recomienda:** Terapia individual para ambos y asesoramiento parental.
 * **Finiquito JATP:** JATP terminó relación laboral con MEJOREDU el **15 de septiembre de 2025** ([convenio terminación](./1_Evidencia_Cronologica/2025/10_Octubre/finiquito/Convenio%20de%20terminación%20MEJOREDU.pdf)). CBGG recibió el 40% correspondiente de la liquidación final (pago final \$36,713.92 el 18/09/2025, total pensión liquidación \$130,599.11, [ver CFDI](./1_Evidencia_Cronologica/2025/10_Octubre/finiquito/cfdi_TOPJ861125444_20250911_finiquito_extra.pdf)). **[Adición]** JATP notificó a abogado el 24/09/2025.
 * **Incidentes JATP (Dentro de Exp. 738/2024):** JATP preparó incidentes (Nov 2024) para: 1) **Reducción de pensión** y 2) **Modificación de custodia**. **[Aclaración]** Estado: Pendiente confirmar si se presentaron formalmente y fueron admitidos. JATP presentó [escrito (`2024-12-09`)](./1_Evidencia_Cronologica/2024/12_Diciembre/20241209-Solicitud-visita.pdf) informando visitas semanales de facto.
-* **Estatus Actual:** Pendiente resolución de incidentes (si se presentaron) y sentencia definitiva de la controversia (Exp. 738/2024). Periciales ordenadas ([Psicología](./1_Evidencia_Cronologica/2025/10_Octubre/Psicología): realizado; Trabajo Social: pendiente), investigación financiera ordenada (SAT/CNBV: pendientes de resultados, ver [escrito solicitud](2_Evidencia_Faltante_y_Tareas/escrito_solicitud_oficio_sat_cnbv.md)). Ver índices de evidencia en [TOC.md](1_Evidencia_Cronologica/2025/10_Octubre/toc_4.md).
+* **Estatus Actual:** Pendiente resolución de incidentes (si se presentaron) y sentencia definitiva de la controversia (Exp. 738/2024). Periciales ordenadas ([Psicología](./1_Evidencia_Cronologica/2025/10_Octubre/Psicología): realizado; Trabajo Social: pendiente), investigación financiera ordenada (SAT/CNBV: pendientes de resultados, ver [escrito solicitud](2_Evidencia_Faltante_y_Tareas/escrito_solicitud_oficio_sat_cnbv.md)). Ver índices de evidencia en [TOC.md](./1_Evidencia_Cronologica/2025/10_Octubre/TOC_4.md).
 
 ## 4. Fechas Clave Futuras y Pendientes Activos
 
@@ -97,7 +97,7 @@ Tener una sola fuente donde consultar qué documentos hay, dónde están, qué f
 * **Finiquito MEJOREDU:** [Septiembre/2025](./1_Evidencia_Cronologica/2025/10_Octubre/finiquito) - Terminación laboral y liquidación
 * **Comprobantes de Gastos:** [Evidencia detallada](./1_Evidencia_Cronologica/2025/10_Octubre/gastos) - Colegiaturas, rentas, etc.
 
-Nota: Para una lista completa de documentos por año/mes, consulta los índices en `1_Evidencia_Cronologica` o el [TOC.md](1_Evidencia_Cronologica/2025/10_Octubre/toc_4.md).
+Nota: Para una lista completa de documentos por año/mes, consulta los índices en `1_Evidencia_Cronologica` o el [TOC.md](./1_Evidencia_Cronologica/2025/10_Octubre/TOC_4.md).
 
 Para ver la lista completa de documentos por año/mes usa los `index.md` creados automáticamente (ej.: [2024 INDEX](1_Evidencia_Cronologica/2024/index.md)).
 
