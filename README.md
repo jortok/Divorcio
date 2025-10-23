@@ -29,24 +29,38 @@ Tener una sola fuente donde consultar qué documentos hay, dónde están, qué f
 
 ## 2. Números de Expediente
 
-* **Expediente 656/2024:** Relativo al "Procedimiento Especial de Divórcio Incausado". (Iniciado por JATP, resultó en la sentencia de divórcio y pensión provisional).
-* **Expediente 738/2024:** Relativo a la "Controversia del Orden Familiar, Guarda y Custodia, Alimentos y Régimen de Visitas". (Iniciado por CBGG post-divórcio, es el principal actual).
+* **Expediente 656/2024:** Relativo al "Procedimiento Especial de Divórcio Incausado". (Iniciado por JATP, [auto de admisión 25/04/2024](./1_Evidencia_Cronologica/2024/12_Diciembre/ACUD324762402_RESOLUCION_firmado.pdf), resultó en la [sentencia de divórcio](./1_Evidencia_Cronologica/2025/01_Enero/actadivorcio.pdf) del 19/06/2024 y pensión provisional).
+* **Expediente 738/2024:** Relativo a la "Controversia del Orden Familiar, Guarda y Custodia, Alimentos y Régimen de Visitas". (Iniciado por CBGG post-divórcio, [auto inicial y audiencia](./1_Evidencia_Cronologica/2025/01_Enero/audiencia-inicial.pdf), es el principal actual).
 
 ## 3. Resumen Ejecutivo del Caso (Contexto Rápido)
 
-* **Matrimonio:** JATP y CBGG se casaron el 11 de agosto de 2011 bajo **Separación de Bienes**. Tuvieron dos hijos, SMTG (13 años a mayo/2025) y DHTG (9 años a mayo/2025).
-* **Separación:** Discusiones intensas Junio-Julio 2023. Separación física Octubre 2023. JATP inicia proceso divórcio Abril 2024.
-* **Sentencia de Divórcio:** Dictada el **19 de junio de 2024** (Exp. 656/2024). **[Adición]** Inscripción en Registro Civil pendiente/en proceso.
-* **Pensión Provisional:** El Juzgado (auto del 30/04/2024, Exp. 656/2024) decretó una **pensión alimenticia provisional del 40%** de todas las percepciones de JATP, aplicada desde la quincena 11/2024.
-* **Controversia (Exp. 738/2024):** Iniciada por CBGG (notificada a JATP a finales de Junio 2024). Demanda **custodia definitiva**, **ratificar pensión 40%**. Acusa violencia. JATP contesta negando violencia, **reconviniendo por custodia**, ofreciendo pensión **25%**. Acusa infidelidad de CBGG, falta de cooperación económica, alienación parental.
-* **Dictamen Psicológico (08/05/2025):** Describe conflicto parental centrado en lo económico. No observa riesgos graves para custodia. **Recomienda:** Terapia individual para ambos y asesoramiento parental.
-* **Finiquito JATP:** JATP terminó relación laboral con MEJOREDU el **15 de septiembre de 2025**. CBGG recibió el 40% correspondiente de la liquidación final (pago final \$36,713.92 el 18/09/2025, total pensión liquidación \$130,599.11). **[Adición]** JATP notificó a abogado el 24/09/2025.
-* **Incidentes JATP (Dentro de Exp. 738/2024):** JATP preparó incidentes (Nov 2024) para: 1) **Reducción de pensión** y 2) **Modificación de custodia**. **[Aclaración]** Estado: Pendiente confirmar si se presentaron formalmente y fueron admitidos. JATP presentó escrito (`2024-12-09`) informando visitas semanales de facto.
-* **Estatus Actual:** Pendiente resolución de incidentes (si se presentaron) y sentencia definitiva de la controversia (Exp. 738/2024). Periciales ordenadas (Psicología: realizado; Trabajo Social: pendiente), investigación financiera ordenada (SAT/CNBV: pendientes de resultados). Ver índices de evidencia en [TOC.md](./1_Evidencia_Cronologica/2025/10_Octubre/TOC_4.md).
+* **Matrimonio:** JATP y CBGG se casaron el [11 de agosto de 2011](./1_Evidencia_Cronologica/2024/12_Diciembre/actamatrimonio.pdf) bajo **Separación de Bienes**. Tuvieron dos hijos, [SMTG (13 años a mayo/2025) y DHTG (9 años a mayo/2025)](./1_Evidencia_Cronologica/2024/12_Diciembre/actas-de-nacimientos-sofia-y-dario.pdf).
+* **Separación:** Discusiones intensas Junio-Julio 2023 (documentado en Dictamen Psicológico). Separación física Octubre 2023. JATP inicia proceso divórcio Abril 2024 ([expediente 656/2024](./1_Evidencia_Cronologica/2024/12_Diciembre/ACUD324762402_RESOLUCION_firmado.pdf)).
+* **Sentencia de Divórcio:** Dictada el **19 de junio de 2024** ([Exp. 656/2024](./1_Evidencia_Cronologica/2025/01_Enero/actadivorcio.pdf)). **[Adición]** Inscripción en Registro Civil pendiente/en proceso.
+* **Pensión Provisional:** El Juzgado (auto del 30/04/2024, Exp. 656/2024) decretó una **pensión alimenticia provisional del 40%** de todas las percepciones de JATP, aplicada desde la quincena 11/2024 ([oficio a MEJOREDU](./1_Evidencia_Cronologica/2024/05_Mayo/20240516-1211000-JNPS-132-2024.pdf)).
+* **Controversia (Exp. 738/2024):** Iniciada por CBGG (notificada a JATP a finales de Junio 2024). Demanda **custodia definitiva**, **ratificar pensión 40%**. Acusa violencia. JATP contesta negando violencia, **reconviniendo por custodia**, ofreciendo pensión **25%**. Acusa infidelidad de CBGG, falta de cooperación económica, alienación parental (ver [evidencia de chat](./1_Evidencia_Cronologica/2025/10_Octubre/Chat%20Claudia/chat-de-whatsapp-con-claudia-garza.txt)).
+* **Dictamen Psicológico ([08/05/2025](./1_Evidencia_Cronologica/2025/10_Octubre/Psicología)):** Describe conflicto parental centrado en lo económico. No observa riesgos graves para custodia. **Recomienda:** Terapia individual para ambos y asesoramiento parental.
+* **Finiquito JATP:** JATP terminó relación laboral con MEJOREDU el **15 de septiembre de 2025** ([convenio terminación](./1_Evidencia_Cronologica/2025/10_Octubre/finiquito/Convenio%20de%20terminación%20MEJOREDU.pdf)). CBGG recibió el 40% correspondiente de la liquidación final (pago final \$36,713.92 el 18/09/2025, total pensión liquidación \$130,599.11, [ver CFDI](./1_Evidencia_Cronologica/2025/10_Octubre/finiquito/cfdi_TOPJ861125444_20250911_finiquito_extra.pdf)). **[Adición]** JATP notificó a abogado el 24/09/2025.
+* **Incidentes JATP (Dentro de Exp. 738/2024):** JATP preparó incidentes (Nov 2024) para: 1) **Reducción de pensión** y 2) **Modificación de custodia**. **[Aclaración]** Estado: Pendiente confirmar si se presentaron formalmente y fueron admitidos. JATP presentó [escrito (`2024-12-09`)](./1_Evidencia_Cronologica/2024/12_Diciembre/20241209-Solicitud-visita.pdf) informando visitas semanales de facto.
+* **Estatus Actual:** Pendiente resolución de incidentes (si se presentaron) y sentencia definitiva de la controversia (Exp. 738/2024). Periciales ordenadas ([Psicología](./1_Evidencia_Cronologica/2025/10_Octubre/Psicología): realizado; Trabajo Social: pendiente), investigación financiera ordenada (SAT/CNBV: pendientes de resultados, ver [escrito solicitud](./2_Evidencia_Faltante_y_Tareas/Escrito_Solicitud_Oficio_SAT_CNBV.md)). Ver índices de evidencia en [TOC.md](./1_Evidencia_Cronologica/2025/10_Octubre/TOC_4.md).
 
-## 4. Fechas Clave Futuras
+## 4. Fechas Clave Futuras y Pendientes Activos
 
-* **Próximas:** Pendiente resolución de incidentes y sentencia definitiva de la controversia (Exp. 738/2024). Pendiente desahogo completo de pericial en Trabajo Social (visitas domiciliarias, estudio socioeconómico). Pendiente recepción de informes financieros (SAT/CNBV).
+### Pendientes Judiciales
+* **Pericial en Trabajo Social:** Pendiente desahogo completo (visitas domiciliarias y estudio socioeconómico). En proceso trámite de exhorto para Ciudad de México.
+* **Investigación Financiera:** Pendiente recepción de informes SAT/CNBV sobre ambas partes.
+* **Escuela para Padres:** Ordenada por el Juzgado ([auto judicial de agosto 2025](./1_Evidencia_Cronologica/2025/10_Octubre/Chat%20de%20WhatsApp%20con%20Abogado%20Miguel%20Hernández/get-imagen-57.pdf)).
+* **Vista sobre Inscripción Escolar:** Pendiente resolución sobre [escrito de JATP](./1_Evidencia_Cronologica/2025/10_Octubre/20251022-comentarios.md) cuestionando tardanza en inscripción y documentación presentada por CBGG.
+
+### Pendientes Procesales
+* **Notificación de Cambio Laboral:** Necesario informar al Juzgado sobre terminación laboral de JATP (15/09/2025) y liquidación recibida.
+* **Incidentes:** Seguimiento a incidentes presentados por JATP (reducción pensión y modificación custodia).
+
+### Próximas Audiencias
+* **Pendiente Nueva Fecha:** Para continuación del proceso principal (Exp. 738/2024).
+
+### Trámites Completados Recientemente
+* **Inscripción Divorcio:** Completada y notificada el [12/05/2025](./1_Evidencia_Cronologica/2025/10_Octubre/Chat%20de%20WhatsApp%20con%20Abogado%20Miguel%20Hernández/IMG-20250512-WA0016.jpg).
 
 ---
 
@@ -54,19 +68,23 @@ Tener una sola fuente donde consultar qué documentos hay, dónde están, qué f
 
 ### Documentos Fundamentales
 
-Estos son los documentos base que constan en la bitácora (todos con enlaces al archivo en `1_Evidencia_Cronologica`):
+#### Documentos de Identidad y Estado Civil
+* **Acta de Matrimonio:** [11/agosto/2011](./1_Evidencia_Cronologica/2024/12_Diciembre/actamatrimonio.pdf) - Régimen de Separación de Bienes
+* **Actas de Nacimiento:** [SMTG y DHTG](./1_Evidencia_Cronologica/2024/12_Diciembre/actas-de-nacimientos-sofia-y-dario.pdf)
+* **Acta de Divorcio:** [Mayo/2025](./1_Evidencia_Cronologica/2025/01_Enero/actadivorcio.pdf)
 
+#### Documentos Judiciales Clave (Exp. 738/2024)
+* **Audiencia Inicial:** [Enero/2025](./1_Evidencia_Cronologica/2025/01_Enero/audiencia-inicial.pdf) - Define pruebas y periciales
+* **Dictamen Psicológico:** [Mayo/2025](./1_Evidencia_Cronologica/2025/10_Octubre/Psicología) - Evaluación de ambos padres
+* **Escritos Relevantes:**
+  - [20241008-audiencia.md](./1_Evidencia_Cronologica/2024/10_Octubre/20241008-audiencia.md) - Argumentos y resumen de gastos
+  - [20251022-comentarios.md](./1_Evidencia_Cronologica/2025/10_Octubre/20251021/20251022-comentarios.md) - Análisis de pruebas CBGG
 
-Resumen cronológico clave (hechos y documentos relevantes)
+#### Documentos Financieros
+* **Finiquito MEJOREDU:** [Septiembre/2025](./1_Evidencia_Cronologica/2025/10_Octubre/finiquito) - Terminación laboral y liquidación
+* **Comprobantes de Gastos:** [Evidencia detallada](./1_Evidencia_Cronologica/2025/10_Octubre/gastos) - Colegiaturas, rentas, etc.
 
-Nota: abajo indico las fechas principales y el documento asociado (si existe). Para una lista completa de documentos por año/mes revisa los índices en `1_Evidencia_Cronologica` o el [TOC.md](./1_Evidencia_Cronologica/2025/10_Octubre/TOC_4.md).
-
-
-
-
-Documentos de referencia rápida (selección y por qué importan)
-- [20241008-audiencia.md](./1_Evidencia_Cronologica/2024/10_Octubre/20241008-audiencia.md) — notas preparatorias de JATP para la audiencia (buena fuente de argumentos y resúmenes de gastos).
-- `20251022-comentarios.md` — observaciones recientes sobre pruebas presentadas por CBGG (inscripciones escolares, capturas de pantalla).
+Nota: Para una lista completa de documentos por año/mes, consulta los índices en `1_Evidencia_Cronologica` o el [TOC.md](./1_Evidencia_Cronologica/2025/10_Octubre/TOC_4.md).
 
 Para ver la lista completa de documentos por año/mes usa los `index.md` creados automáticamente (ej.: [2024 INDEX](1_Evidencia_Cronologica/2024/index.md)).
 
