@@ -69,7 +69,7 @@ Tener una sola fuente donde consultar qué documentos hay, dónde están, qué f
 * **Pericial en Trabajo Social:** Pendiente desahogo completo (visitas domiciliarias y estudio socioeconómico). En proceso trámite de exhorto para Ciudad de México.
 * **Investigación Financiera:** Pendiente recepción de informes SAT/CNBV sobre ambas partes.
 * **Escuela para Padres:** Ordenada por el Juzgado ([auto judicial de agosto 2025](./1_Evidencia_Cronologica/2025/10_Octubre/Chat%20de%20WhatsApp%20con%20Abogado%20Miguel%20Hernández/get-imagen-57.pdf)).
-* **Vista sobre Inscripción Escolar:** Pendiente resolución sobre [escrito de JATP](./1_Evidencia_Cronologica/2025/10_Octubre/20251022-comentarios.md) cuestionando tardanza en inscripción y documentación presentada por CBGG.
+* **Vista sobre Inscripción Escolar:** En proceso. CBGG presenta [respuesta formal](./1_Evidencia_Cronologica/2025/10_Octubre/20251023%20escritos%20CBGG) a la vista ordenada (23/10/2025), adjuntando comprobantes adicionales de inscripción.
 
 ### Pendientes Procesales
 * **Notificación de Cambio Laboral:** Necesario informar al Juzgado sobre terminación laboral de JATP (15/09/2025) y liquidación recibida.
@@ -211,6 +211,10 @@ Para ver la lista completa de documentos por año/mes usa los `index.md` creados
     * **Evento:** Auto Judicial (Exp. 738/2024). Admite otro escrito JATP. Reitera **vista a CBGG por 3 días** sobre inscripción (pide pruebas). Da vista a MP.
 * **`2025-10-22` - (Doc: `20251022-comentarios.md`, Chat Abogado, Imágenes juzgado)**
     * **Evento:** CBGG presenta pruebas (constancias inscripción SMTG/DHTG para ciclo 2025-2026, capturas chat). JATP envía comentarios a abogado desvirtuándolas (inscripción tardía, chat recortado con padre JATP, bloqueo WhatsApp).
+* **`2025-10-23` - (Doc: [20251023 escritos CBGG](./1_Evidencia_Cronologica/2025/10_Octubre/20251023%20escritos%20CBGG))**
+    * **Evento:** CBGG presenta formalmente dos escritos al Juzgado:
+        1. Respuesta a la vista ordenada (auto 25/09/2025) sobre inscripción escolar.
+        2. Evidencia adicional de segundo pago de inscripción.
 
 ## 6. Dinámicas y Evidencia Clave de Comunicaciones Directas (Fuente: Chat Claudia)
 
