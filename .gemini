@@ -1,0 +1,96 @@
+# .gemini - Contexto del Caso de Divorcio Tokunaga-Garza
+
+Este archivo es la base de conocimiento centralizada sobre el caso de divorcio y la controversia familiar entre Jorge Arturo Tokunaga Pérez y Claudia Beatriz Garza Gómez.
+
+## 1. Personas Clave
+
+*   **JATP:** Jorge Arturo Tokunaga Pérez (Usuario)
+*   **CBGG:** Claudia Beatriz Garza Gómez (Contraparte)
+*   **SMTG:** Sofía Mizuki Tokunaga Garza (Hija, nacida el 02/01/2012)
+*   **DHTG:** Darío Hiroki Tokunaga Garza (Hijo, nacido el 28/08/2015)
+*   **Juzgado:** Juzgado Primero Familiar de Nezahualcóyotl, Estado de México.
+*   **Abogado JATP:** Lic. Miguel Hernández Gutiérrez
+*   **Abogado CBGG:** Lic. Alfonso Paolo Alduncin Espinosa ("Poncho")
+*   **Perito Psicóloga:** Elda Marisol Rodríguez Oropeza
+*   **Perito Trabajo Social:** Lesli Katya Mendoza Celis
+
+## 2. Números de Expediente
+
+*   **Expediente 656/2024:** "Procedimiento Especial de Divorcio Incausado". Iniciado por JATP. Resultó en la sentencia de divorcio y la pensión provisional.
+*   **Expediente 738/2024:** "Controversia del Orden Familiar, Guarda y Custodia, Alimentos y Régimen de Visitas". Iniciado por CBGG post-divorcio. Es el expediente principal actual.
+
+## 3. Resumen Ejecutivo
+
+*   **Matrimonio:** 11 de agosto de 2011, bajo **Separación de Bienes**. Dos hijos (SMTG y DHTG).
+*   **Separación:** Física en Octubre 2023. JATP inicia proceso de divorcio en Abril 2024.
+*   **Sentencia de Divorcio:** Dictada el **19 de junio de 2024** (Exp. 656/2024). La inscripción en el Registro Civil está pendiente.
+*   **Pensión Provisional:** El 30/04/2024, el Juzgado decretó una pensión alimenticia provisional del **40%** de todas las percepciones de JATP.
+*   **Controversia (Exp. 738/2024):** CBGG demandó la custodia definitiva y la ratificación de la pensión del 40%, alegando violencia. JATP contestó negando la violencia, reconviniendo por la custodia y ofreciendo una pensión del **25%**.
+*   **Dictamen Psicológico (08/05/2025):** No observó riesgos graves para la custodia y recomendó terapia individual y asesoramiento parental.
+*   **Finiquito JATP:** JATP terminó su relación laboral con MEJOREDU el **15 de septiembre de 2025**. CBGG recibió el 40% correspondiente de la liquidación. JATP notificó a su abogado el 24/09/2025.
+*   **Estatus Actual:** Pendiente la resolución de la controversia (Exp. 738/2024), incluyendo la definición de la pensión y custodia definitivas. Las periciales están en proceso (Psicología realizada, Trabajo Social pendiente) y se esperan informes financieros.
+
+## 4. Bitácora Cronológica de Eventos y Documentos
+
+#### Documentos Fundamentales
+*   **`2011-08-11` - Matrimonio (Separación de Bienes)**
+    *   **Fuente:** `actaMatrimonio.pdf`
+*   **`2012-01-02` / `2015-08-28` - Nacimientos de Hijos**
+    *   **Fuente:** `Actas de nacimientos (Sofía y Darío).pdf`
+
+#### 2023 - Separación y Negociación
+*   **`Junio-Julio 2023` - Inicio de discusiones intensas.**
+*   **`Octubre 2023` - Separación física.**
+*   **`2023-10-20` - Borrador Convenio 1 (Propuesta JATP, 22%). NO FIRMADO.**
+    *   **Fuente:** `20231106 convenio.docx`
+*   **`Nov 2023` - Borrador Convenio 2 (Propuesta Abogado CBGG, 22% + extras). NO FIRMADO.**
+    *   **Fuentes:** `ACUERDO JORGE ARTURO T 2023..docx`, `ACUERDO JORGE ARTURO T 2023- comentado.docx`
+
+#### 2024 - Proceso de Divorcio (Exp. 656/2024)
+*   **`2024-02-10` - Borrador Solicitud Divorcio JATP (Pensión $12,000 fijos). NO PRESENTADO ASÍ.**
+    *   **Fuentes:** `JORGE ARTURO TOKUNAGA PEREZ. FEBRERO 2024 PARA FIRMA DIVORCIO.docx`, `...Comentado.docx`
+*   **`2024-04-17` - JATP presenta formalmente la Solicitud de Divorcio.**
+*   **`2024-04-25` - Auto Judicial: Se admite la demanda de divorcio.**
+    *   **Fuente:** `Chat de WhatsApp con Abogado Miguel Hernández/ACUD324762402_RESOLUCION_firmado.pdf`
+*   **`2024-04-30` - Auto Judicial: Juez fija pensión provisional del 40%.**
+*   **`2024-05-16` a `2024-05-20` - Oficios a MEJOREDU para aplicar el descuento del 40%.**
+    *   **Fuentes:** `20240516 1211000-JNPS-132-2024.pdf`, `20240520 1210000-MALR-132-2024.pdf`
+*   **`2024-05-31` - 1ra Junta de Avenencia. Sin acuerdo.**
+*   **`2024-06-06` - Notificación de RH a JATP sobre la aplicación del descuento.**
+    *   **Fuente:** `20240606 Descuento - Pensión alimenticia_ Jorge Arturo Tokunaga Pérez.pdf`
+*   **`2024-06-19` - 2da Junta de Avenencia. Sin acuerdo. Se dicta Sentencia de Divorcio.**
+
+#### 2024 - Controversia Familiar (Exp. 738/2024)
+*   **`Finales de Junio 2024` - CBGG presenta demanda de controversia familiar.**
+*   **`2024-07-04` - JATP presenta Contestación de Demanda (reconviniendo por custodia y ofreciendo 25%).**
+    *   **Fuentes:** `20240702 definitiva/contestacion.docx`, `20240702 definitiva/JORGE TOKUNAGA 2024 CONTESTACION DE DEMANDA JULIO v2.docx`
+*   **`2024-07-05` - Auto Judicial: Admite contestación de JATP y fija Audiencia Inicial.**
+    *   **Fuente:** `Chat de WhatsApp con Abogado Miguel Hernández/ACUD338622851_RESOLUCION_firmado(2).pdf`
+*   **`2024-10-15` - Auto Judicial: Reprograma Audiencia Inicial para el 10 de enero de 2025.**
+    *   **Fuente:** `Chat de WhatsApp con Abogado Miguel Hernández/ACUD356136278_RESOLUCION_firmado.pdf`
+*   **`Nov 2024` - JATP prepara borradores de incidentes de Reducción de Pensión y Modificación de Custodia.** (Estado: Pendiente confirmar si se presentaron).
+    *   **Fuentes:** `20241113 escritos/REDUCCION DE PENSION JORGE TOKUNAGA 2024v2.docx`, `20241113 escritos/JORGE ARTURO TOKUNAGA PEREZ. INCIDENTE 2024_v3.docx`
+*   **`2024-12-09` - JATP presenta escrito informando régimen de visitas de facto.**
+    *   **Fuente:** `20241209 - Solicitud de cambio de régimen de visita JORGE ARTURO TOKUNAGA PEREZ. DICIEMBRE 2024.pdf`
+
+#### 2025 - Avances del Juicio y Periciales
+*   **`2025-01-07` - Auto Judicial: Admite escrito de JATP sobre visitas.**
+    *   **Fuente:** `Chat de WhatsApp con Abogado Miguel Hernández/get-imagen (3).pdf`
+*   **`2025-01-10` - Audiencia Inicial (CBGG ausente).** Se admiten pruebas, se ordenan periciales y se fija Audiencia Principal.
+    *   **Fuente:** `Audiencia Inicial.pdf`
+*   **`2025-02-04` - Auto Judicial: Perito de Trabajo Social acepta el cargo y se fija fecha para pericial en psicología.**
+    *   **Fuente:** `Chat de WhatsApp con Abogado Miguel Hernández/get-imagen.pdf`
+*   **`2025-03-19` - Plática del Juez con los menores.**
+*   **`2025-03-25` - Audiencia Principal (desahogo de pruebas).**
+*   **`2025-05-08` - Se emite Dictamen en Materia de Psicología.**
+    *   **Fuente:** `Chat de WhatsApp con Abogado Miguel Hernández/IMG-20250610-WA0013.jpg` a `WA0022.jpg`
+*   **`2025-09-09` - Auto Judicial: Admite escrito de JATP sobre falta de inscripción escolar.**
+    *   **Fuente:** `Chat de WhatsApp con Abogado Miguel Hernández/get-imagen-57.pdf`
+*   **`2025-09-15` - JATP finaliza su relación laboral con MEJOREDU.**
+    *   **Fuentes:** `20251021/Convenio de terminación MEJOREDU.pdf`, `20251021/Hechos.odt`
+*   **`2025-09-18` - CBGG recibe el pago final del 40% de la liquidación de JATP.**
+*   **`2025-09-24` - JATP notifica a su abogado sobre el fin de su relación laboral.**
+*   **`2025-09-25` - Auto Judicial: Admite otro escrito de JATP y reitera vista a CBGG sobre la inscripción escolar.**
+    *   **Fuente:** `Chat de WhatsApp con Abogado Miguel Hernández/get-imagen-59.pdf`
+*   **`2025-10-22` - CBGG presenta pruebas de inscripción; JATP envía comentarios a su abogado para desvirtuarlas.**
+    *   **Fuente:** `20251021/20251022-comentarios.md`

@@ -1,0 +1,2 @@
+# SKIPPED PENDIENTES (manual review)
+# old	new	reason

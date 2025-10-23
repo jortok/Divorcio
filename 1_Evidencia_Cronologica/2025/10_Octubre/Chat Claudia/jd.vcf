@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;JD;;;
+FN:JD
+item1.TEL:+52 56 2051 2387
+item1.X-ABLabel:Particular
+item2.TEL;waid=5215620926067:+52 56 2092 6067
+item2.X-ABLabel:Celular
+END:VCARD

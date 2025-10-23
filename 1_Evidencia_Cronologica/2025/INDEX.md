@@ -1,0 +1,42 @@
+# Índice 2025
+
+## 01_Enero
+
+- [actadivorcio.pdf](./1_Evidencia_Cronologica/2025/01_Enero/actadivorcio.pdf)
+- [audiencia-inicial.pdf](./1_Evidencia_Cronologica/2025/01_Enero/audiencia-inicial.pdf)
+
+## 10_Octubre
+
+- [0.memoria.pdf](./1_Evidencia_Cronologica/2025/10_Octubre/0.memoria.pdf)
+- [20251021](./1_Evidencia_Cronologica/2025/10_Octubre/20251021)
+- [Chat Claudia](./1_Evidencia_Cronologica/2025/10_Octubre/Chat Claudia)
+- [Chat de WhatsApp con Abogado Miguel Hernández](./1_Evidencia_Cronologica/2025/10_Octubre/Chat de WhatsApp con Abogado Miguel Hernández)
+- [Claudia](./1_Evidencia_Cronologica/2025/10_Octubre/Claudia)
+- [Honorarios Miguel](./1_Evidencia_Cronologica/2025/10_Octubre/Honorarios Miguel)
+- [PENDIENTES_VERIFICAR.txt](./1_Evidencia_Cronologica/2025/10_Octubre/PENDIENTES_VERIFICAR.txt)
+- [PENDIENTES_VERIFICAR_SKIPPED.txt](./1_Evidencia_Cronologica/2025/10_Octubre/PENDIENTES_VERIFICAR_SKIPPED.txt)
+- [Psicología](./1_Evidencia_Cronologica/2025/10_Octubre/Psicología)
+- [TOC.md](./1_Evidencia_Cronologica/2025/10_Octubre/TOC.md)
+- [TOC_1.md](./1_Evidencia_Cronologica/2025/10_Octubre/TOC_1.md)
+- [TOC_2.md](./1_Evidencia_Cronologica/2025/10_Octubre/TOC_2.md)
+- [TOC_3.md](./1_Evidencia_Cronologica/2025/10_Octubre/TOC_3.md)
+- [TOC_4.md](./1_Evidencia_Cronologica/2025/10_Octubre/TOC_4.md)
+- [TOC_5.md](./1_Evidencia_Cronologica/2025/10_Octubre/TOC_5.md)
+- [cfdi_extract.csv](./1_Evidencia_Cronologica/2025/10_Octubre/cfdi_extract.csv)
+- [comprobantes](./1_Evidencia_Cronologica/2025/10_Octubre/comprobantes)
+- [comprobantes ingresos](./1_Evidencia_Cronologica/2025/10_Octubre/comprobantes ingresos)
+- [gastos](./1_Evidencia_Cronologica/2025/10_Octubre/gastos)
+- [moves_map_applied.tsv](./1_Evidencia_Cronologica/2025/10_Octubre/moves_map_applied.tsv)
+- [moves_map_suggested.tsv](./1_Evidencia_Cronologica/2025/10_Octubre/moves_map_suggested.tsv)
+- [re](./1_Evidencia_Cronologica/2025/10_Octubre/re)
+- [reference_updates.txt](./1_Evidencia_Cronologica/2025/10_Octubre/reference_updates.txt)
+- [rename_apply.log](./1_Evidencia_Cronologica/2025/10_Octubre/rename_apply.log)
+- [rename_apply_1.log](./1_Evidencia_Cronologica/2025/10_Octubre/rename_apply_1.log)
+- [repair_links.log](./1_Evidencia_Cronologica/2025/10_Octubre/repair_links.log)
+- [repair_links_1.log](./1_Evidencia_Cronologica/2025/10_Octubre/repair_links_1.log)
+- [repair_links_2.log](./1_Evidencia_Cronologica/2025/10_Octubre/repair_links_2.log)
+- [repair_links_3.log](./1_Evidencia_Cronologica/2025/10_Octubre/repair_links_3.log)
+- [repair_links_4.log](./1_Evidencia_Cronologica/2025/10_Octubre/repair_links_4.log)
+- [requirements.txt](./1_Evidencia_Cronologica/2025/10_Octubre/requirements.txt)
+- [unicodedata](./1_Evidencia_Cronologica/2025/10_Octubre/unicodedata)
+- [unitec](./1_Evidencia_Cronologica/2025/10_Octubre/unitec)
