@@ -154,15 +154,25 @@ def load_suggested_map(map_file: Path):
 
 
 def ensure_backup(src: Path, backup_root: Path):
-    dest = backup_root / src
+    # ensure dest path is inside backup_root and preserves repo-relative path
+    p = Path(src)
+    try:
+        if p.is_absolute():
+            rel = p.relative_to(ROOT)
+        else:
+            rel = p
+    except Exception:
+        # fallback: use name only
+        rel = p.name
+    dest = backup_root / rel
     dest.parent.mkdir(parents=True, exist_ok=True)
-    if src.exists():
-        if src.is_file():
-            shutil.copy2(src, dest)
+    if p.exists():
+        if p.is_file():
+            shutil.copy2(p, dest)
         else:
             if dest.exists():
                 shutil.rmtree(dest)
-            shutil.copytree(src, dest)
+            shutil.copytree(p, dest)
 
 
 def apply_map(pairs, backup_root: Path, only_within_evid=True):
