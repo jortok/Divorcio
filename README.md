@@ -230,8 +230,9 @@ Para ver la lista completa de documentos por año/mes usa los `index.md` creados
   - **Evento:** Auto Judicial (Exp. 738/2024). Admite escrito JATP falta inscripción. Ordena **vista a CBGG por 3 días**.
 - **`2025-09-15` - (Doc: `Hechos.odt`, `Convenio de terminación MEJOREDU.pdf`)**
   - **Evento:** **JATP finaliza relación laboral con MEJOREDU.**
-- **`2025-09-18` - (Doc: `Hechos.odt`, Doc: `cfdi_TOPJ861125444_20250911_finiquito_extra.pdf`)**
-  - **Evento:** CBGG recibe pago final pensión 40% de liquidación JATP: **\$36,713.92**. (Total pensión sobre liquidación: \$130,599.11).
+- **`2025-09-23` - (Docs: `Hechos.odt`, `cfdi_TOPJ861125444_20250911_finiquito_extra.pdf`, `20251023-escrito-CBGG-2.pdf`)**
+  - **Evento:** CBGG recibe **segundo y último pago** de pensión 40% sobre liquidación JATP el 23/09/2025: **$14,397.56**.
+  - **Contexto:** (Total pensión sobre liquidación: $130,599.11, compuesto por este pago más $116,201.55 del 06/06/2025, según actas TFCA).
 - **`2025-09-24` - (Chat Abogado)**
   - **Evento:** **[Adición]** JATP notifica vía chat a su abogado sobre el fin de su relación laboral (efectiva el 15/09) y que CBGG ya recibió su parte del finiquito.
 - **`2025-09-25` - (Doc: `get-imagen-59.pdf`)**
